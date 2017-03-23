@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_MVP_Weather.iml" filepath="$PROJECT_DIR$/Android_MVP_Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc_weather/mvc_weather.iml" filepath="$PROJECT_DIR$/mvc_weather/mvc_weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp_weather/mvp_weather.iml" filepath="$PROJECT_DIR$/mvp_weather/mvp_weather.iml" />
+    </modules>
+  </component>
+</project>
